@@ -16,8 +16,7 @@ A su vez, puede ver los dibujos que crea y como se ve el camino seguido de todos
 ## **Ejecución del Proyecto**
 1. Verifique tener la versión de Python 3.10 para arriba
 2. Clone el repositorio
-3. Ejecuta el archivo ``main.py``
-4. Se visualizara una pantalla con el proyecto
+3. Ejecute el archivo ``main.py``
 ## **Características**
 El proyecto contiene:
 * Un menu en la parte izquierda de la pantalla
